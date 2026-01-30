@@ -1,0 +1,53 @@
+{
+  "username": "hhimanshu",
+  "projectNumber": 5,
+  "projectId": "PVT_kwHOAGSKbM4BN5HU",
+  "fields": {
+    "status": {
+      "id": "PVTSSF_lAHOAGSKbM4BN5HUzg8wXM0",
+      "options": {
+        "Backlog": "cb666788",
+        "Blocked": "f75ad846",
+        "Ready": "61e4505c",
+        "In progress": "47fc9ee4",
+        "Done": "98236657"
+      }
+    },
+    "priority": {
+      "id": "PVTSSF_lAHOAGSKbM4BN5HUzg8wXTM",
+      "options": {
+        "P0": "79628723",
+        "P1": "0a877460",
+        "P2": "da944a9c"
+      }
+    },
+    "size": {
+      "id": "PVTSSF_lAHOAGSKbM4BN5HUzg8wXTc",
+      "options": {
+        "XS": "6c6483d2",
+        "S": "f784b110",
+        "M": "7515a9f1",
+        "L": "817d0097",
+        "XL": "db339eb2"
+      }
+    },
+    "estimate": {
+      "id": "PVTF_lAHOAGSKbM4BN5HUzg8wXTo"
+    },
+    "startDate": {
+      "id": "PVTF_lAHOAGSKbM4BN5HUzg8wXTs"
+    },
+    "targetDate": {
+      "id": "PVTF_lAHOAGSKbM4BN5HUzg8wXTw"
+    },
+    "area": {
+      "id": "PVTSSF_lAHOAGSKbM4BN5HUzg8waXw",
+      "options": {
+        "Finance": "4f13b781",
+        "Legal": "ecb2dd7c",
+        "Work": "87260b40",
+        "Home": "1df3bd12"
+      }
+    }
+  }
+}
